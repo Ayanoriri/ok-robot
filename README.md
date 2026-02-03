@@ -1,2 +1,2 @@
 # ok-robot
-This is the github page for ok-robot : vision
+This is the github page for Vivian's projects in class Ok-robot:Vision
